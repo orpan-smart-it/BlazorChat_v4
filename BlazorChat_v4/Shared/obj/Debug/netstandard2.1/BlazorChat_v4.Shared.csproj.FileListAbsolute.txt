@@ -1,0 +1,9 @@
+C:\Users\orpan\source\repos\BlazorChat_v4\BlazorChat_v4\Shared\bin\Debug\netstandard2.1\BlazorChat_v4.Shared.deps.json
+C:\Users\orpan\source\repos\BlazorChat_v4\BlazorChat_v4\Shared\bin\Debug\netstandard2.1\BlazorChat_v4.Shared.dll
+C:\Users\orpan\source\repos\BlazorChat_v4\BlazorChat_v4\Shared\bin\Debug\netstandard2.1\BlazorChat_v4.Shared.pdb
+C:\Users\orpan\source\repos\BlazorChat_v4\BlazorChat_v4\Shared\obj\Debug\netstandard2.1\BlazorChat_v4.Shared.csprojAssemblyReference.cache
+C:\Users\orpan\source\repos\BlazorChat_v4\BlazorChat_v4\Shared\obj\Debug\netstandard2.1\BlazorChat_v4.Shared.AssemblyInfoInputs.cache
+C:\Users\orpan\source\repos\BlazorChat_v4\BlazorChat_v4\Shared\obj\Debug\netstandard2.1\BlazorChat_v4.Shared.AssemblyInfo.cs
+C:\Users\orpan\source\repos\BlazorChat_v4\BlazorChat_v4\Shared\obj\Debug\netstandard2.1\BlazorChat_v4.Shared.dll
+C:\Users\orpan\source\repos\BlazorChat_v4\BlazorChat_v4\Shared\obj\Debug\netstandard2.1\BlazorChat_v4.Shared.pdb
+C:\Users\orpan\source\repos\BlazorChat_v4\BlazorChat_v4\Shared\obj\Debug\netstandard2.1\BlazorChat_v4.Shared.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+C:\Users\orpan\source\repos\BlazorChat_v4\BlazorChat.Api\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\orpan\source\repos\BlazorChat_v4\BlazorChat.Api\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\orpan\source\repos\BlazorChat_v4\BlazorChat.Api\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\orpan\source\repos\BlazorChat_v4\BlazorChat.Api\bin\Debug\netcoreapp2.1\BlazorChat.Api.deps.json
+C:\Users\orpan\source\repos\BlazorChat_v4\BlazorChat.Api\bin\Debug\netcoreapp2.1\BlazorChat.Api.runtimeconfig.json
+C:\Users\orpan\source\repos\BlazorChat_v4\BlazorChat.Api\bin\Debug\netcoreapp2.1\BlazorChat.Api.runtimeconfig.dev.json
+C:\Users\orpan\source\repos\BlazorChat_v4\BlazorChat.Api\bin\Debug\netcoreapp2.1\BlazorChat.Api.dll
+C:\Users\orpan\source\repos\BlazorChat_v4\BlazorChat.Api\obj\Debug\netcoreapp2.1\BlazorChat.Api.csprojAssemblyReference.cache
+C:\Users\orpan\source\repos\BlazorChat_v4\BlazorChat.Api\obj\Debug\netcoreapp2.1\BlazorChat.Api.AssemblyInfoInputs.cache
+C:\Users\orpan\source\repos\BlazorChat_v4\BlazorChat.Api\obj\Debug\netcoreapp2.1\BlazorChat.Api.AssemblyInfo.cs
+C:\Users\orpan\source\repos\BlazorChat_v4\BlazorChat.Api\obj\Debug\netcoreapp2.1\BlazorChat.Api.RazorAssemblyInfo.cache
+C:\Users\orpan\source\repos\BlazorChat_v4\BlazorChat.Api\obj\Debug\netcoreapp2.1\BlazorChat.Api.RazorAssemblyInfo.cs
+C:\Users\orpan\source\repos\BlazorChat_v4\BlazorChat.Api\obj\Debug\netcoreapp2.1\BlazorChat.Api.RazorTargetAssemblyInfo.cache
+C:\Users\orpan\source\repos\BlazorChat_v4\BlazorChat.Api\obj\Debug\netcoreapp2.1\BlazorChat.Api.genruntimeconfig.cache

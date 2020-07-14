@@ -1,0 +1,39 @@
+﻿@using BlazorChat_v4.Shared
+@page "/chat"
+@page "/chat/selectedContact.ContactId"
+@inject HttpClient Http
+@inject ContactListBase ContactListBase
+
+<div class="col-12">
+   
+
+
+</div>
+
+<div style="border:0px;height:90vh;">
+    <div class="panel panel-primary" style="height:100%;">
+        <div class="panel-heading top-bar">
+            <div class="col-md-8 col-xs-8">
+                <h3 class="panel-title">
+            
+                </h3>
+            </div>
+        </div>
+        <div id="divMessageContainerBase" class="panel-body msg_container_base">
+
+        </div>
+        <!--Chat User Box-->
+        <div class="panel-footer">
+            <div class="input-group" id="myForm">
+                <input id="txtMessageInput" type="text" class="form-control input-sm chat_input"
+                       placeholder="Write your message here..." />
+            </div>
+        </div>
+
+    </div>
+    
+</div>
+@code{
+ 
+
+}
