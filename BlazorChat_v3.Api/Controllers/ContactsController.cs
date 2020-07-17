@@ -51,5 +51,27 @@ namespace BlazorChat_v3.Api.Controllers
                         "Error retrieving data from the database");
                 }
             }
+        [HttpPost]
+        public async Task<ActionResult> AddContact(Contact contact)
+        {
+            try
+            {
+                if (contact == null)
+                {
+                    return BadRequest();
+                }
+                var createdContact = await contactRepository.AddContact(contact);
+                return CreatedAtAction(nameof(GetContact), new
+                {
+                    id = createdContact.
+                    ContactId
+                }, createdContact);
+            }
+            catch (Exception)
+            {
+                return StatusCode(StatusCodes.Status500InternalServerError,
+                    "Error adding a new contact.");
+            }
+        }
         }
     }
