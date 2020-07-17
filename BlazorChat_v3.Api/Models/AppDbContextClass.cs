@@ -16,9 +16,9 @@ namespace BlazorChat.Api.Models
         {
             base.OnModelCreating(modelBuilder);
 
-            modelBuilder.Entity<Contact>().HasData( new Contact(3, "Jack", "Rassel"));
-            modelBuilder.Entity<Contact>().HasData(new Contact(1, "Anatoliy", "Rassel"));
-            modelBuilder.Entity<Contact>().HasData(new Contact(2, "Lara", "Rassel"));
+            modelBuilder.Entity<Contact>().HasData( new Contact(3, "Jack", "Rassel", "first@mail.com"));
+            modelBuilder.Entity<Contact>().HasData(new Contact(1, "Anatoliy", "Rassel", "second@mail.com"));
+            modelBuilder.Entity<Contact>().HasData(new Contact(2, "Lara", "Rassel", "third@mail.com"));
         }
     }
 }

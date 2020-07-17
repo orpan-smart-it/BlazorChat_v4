@@ -20,10 +20,7 @@ namespace BlazorChat_v4.Client.Pages
 
         private void LoadContactList ()
         {
-            Contact c1 = new Contact(3, "Jack", "Rassel");
-            Contact c2 = new Contact(1, "Den", "Semenets");
-            Contact c3 = new Contact(2, "Arya", "Frank");
-            ContactList = new List<Contact> { c1,c2,c3};
+            
         }
     }
 }

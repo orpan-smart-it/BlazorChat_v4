@@ -1504,6 +1504,7 @@
         "framework": ".NETStandard,Version=v2.1",
         "dependencies": {
           "Microsoft.EntityFrameworkCore.SqlServer": "3.1.5",
+          "System.ComponentModel.Annotations": "4.7.0",
           "System.Data.SqlClient": "4.8.1"
         },
         "compile": {
@@ -5594,6 +5595,7 @@
       "Microsoft.EntityFrameworkCore.SqlServer >= 3.1.5",
       "Microsoft.EntityFrameworkCore.Sqlite >= 3.1.5",
       "Microsoft.EntityFrameworkCore.Tools >= 3.1.5",
+      "System.ComponentModel.Annotations >= 4.7.0",
       "System.Data.Common >= 4.3.0",
       "System.Data.SqlClient >= 4.8.1"
     ]
@@ -5656,6 +5658,10 @@
             "suppressParent": "All",
             "target": "Package",
             "version": "[3.1.5, )"
+          },
+          "System.ComponentModel.Annotations": {
+            "target": "Package",
+            "version": "[4.7.0, )"
           },
           "System.Data.Common": {
             "target": "Package",
