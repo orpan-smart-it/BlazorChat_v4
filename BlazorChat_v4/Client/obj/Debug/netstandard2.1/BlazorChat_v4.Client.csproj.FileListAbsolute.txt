@@ -686,7 +686,6 @@ C:\Users\orpan\BlazorChat_v4\BlazorChat_v4\Client\obj\Debug\netstandard2.1\integ
 C:\Users\orpan\BlazorChat_v4\BlazorChat_v4\Client\obj\Debug\netstandard2.1\integrity\jqp6xS5jDFDsISGorhiYZQ2if3hAiols6d4C5BNnMQ4=.hash
 C:\Users\orpan\BlazorChat_v4\BlazorChat_v4\Client\obj\Debug\netstandard2.1\integrity\ZxXy75PYbzJxNfAc-SAP1nUYm4gt1jSaOpFnBb9m85M=.hash
 C:\Users\orpan\BlazorChat_v4\BlazorChat_v4\Client\obj\Debug\netstandard2.1\integrity\ZFZ7sEO9dexBkfP7iX8zEyLRXGADfimwwKXVNXak0NI=.hash
-C:\Users\orpan\BlazorChat_v4\BlazorChat_v4\Client\obj\Debug\netstandard2.1\integrity\z-R8b3qgF69rjx-6oNNcflX9xQjfYbgjnWkTqQO1tv8=.hash
 C:\Users\orpan\BlazorChat_v4\BlazorChat_v4\Client\obj\Debug\netstandard2.1\integrity\sifIvl02zqfSiv67ZRAsSa_NCvhMgTGrIUNuK8LmCNM=.hash
 C:\Users\orpan\BlazorChat_v4\BlazorChat_v4\Client\obj\Debug\netstandard2.1\integrity\B8lmXQIZesz3VNf2EhEYPXwBkBHHyyGOEcvU25U-ie4=.hash
 C:\Users\orpan\BlazorChat_v4\BlazorChat_v4\Client\obj\Debug\netstandard2.1\integrity\hbEA2pdvgll2bWeJXCtehEV3kl3WFnBgQj6ttcesEA4=.hash
@@ -707,7 +706,6 @@ C:\Users\orpan\BlazorChat_v4\BlazorChat_v4\Client\obj\Debug\netstandard2.1\integ
 C:\Users\orpan\BlazorChat_v4\BlazorChat_v4\Client\obj\Debug\netstandard2.1\integrity\Z_NeMeePelfkeb7RMqMLU8KIFQrmV0168zqwpLqbQcc=.hash
 C:\Users\orpan\BlazorChat_v4\BlazorChat_v4\Client\obj\Debug\netstandard2.1\integrity\K3dpli228kQQ75WVqoiIdmn8u8q8gZHixcWDdCHCRgU=.hash
 C:\Users\orpan\BlazorChat_v4\BlazorChat_v4\Client\obj\Debug\netstandard2.1\integrity\dwm_rKImjhxtOmHHVpSxOgl2oh2R26xOWihLaZSv7Vs=.hash
-C:\Users\orpan\BlazorChat_v4\BlazorChat_v4\Client\obj\Debug\netstandard2.1\integrity\boCf3NdI9w00HNCNCjWH0eBdzGW6cAg5HLc66nqeNTc=.hash
 C:\Users\orpan\BlazorChat_v4\BlazorChat_v4\Client\obj\Debug\netstandard2.1\integrity\mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash
 C:\Users\orpan\BlazorChat_v4\BlazorChat_v4\Client\obj\Debug\netstandard2.1\integrity\3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash
 C:\Users\orpan\BlazorChat_v4\BlazorChat_v4\Client\obj\Debug\netstandard2.1\integrity\UC-3Rm1NkdNdlIrzYARo_dO-HDlS5mhPxo0IQv7kma8=.hash
@@ -837,4 +835,6 @@ C:\Users\orpan\BlazorChat_v4\BlazorChat_v4\Client\obj\Debug\netstandard2.1\Blazo
 C:\Users\orpan\BlazorChat_v4\BlazorChat_v4\Client\obj\Debug\netstandard2.1\BlazorChat_v4.Client.pdb
 C:\Users\orpan\BlazorChat_v4\BlazorChat_v4\Client\obj\Debug\netstandard2.1\integrity\h6NJV42uYo4qUh2ZL9GmDGaauXxoRYwIlHVtHyUubMI=.hash
 C:\Users\orpan\BlazorChat_v4\BlazorChat_v4\Client\obj\Debug\netstandard2.1\integrity\SIr750lSJeI9Mb4KcKoFuOUSeHzEed5txNHslnfJ-VM=.hash
-C:\Users\orpan\BlazorChat_v4\BlazorChat_v4\Client\obj\Debug\netstandard2.1\integrity\GRrhfGTUc_6AZdCidDEJ4bgptR97SrFHhxm2qDnmIM4=.hash
+C:\Users\orpan\BlazorChat_v4\BlazorChat_v4\Client\obj\Debug\netstandard2.1\integrity\UViwhmIBPDBFLyY9KwDIwarJd1hVVzw4z3833oLdv_Y=.hash
+C:\Users\orpan\BlazorChat_v4\BlazorChat_v4\Client\obj\Debug\netstandard2.1\integrity\2FyQ1i0kRkNA9wRDT9QSBRLpmbijhuRnUwhkWS8HGwI=.hash
+C:\Users\orpan\BlazorChat_v4\BlazorChat_v4\Client\obj\Debug\netstandard2.1\integrity\9MX5em3Pp-_Lh1TDrL9TT_54nHI9xF6wL8u8yhPXQsY=.hash

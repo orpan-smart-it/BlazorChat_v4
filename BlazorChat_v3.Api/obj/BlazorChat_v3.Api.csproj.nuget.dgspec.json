@@ -60,6 +60,10 @@
               "target": "Package",
               "version": "[3.1.5, )"
             },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
             "System.Data.Common": {
               "target": "Package",
               "version": "[4.3.0, )"
@@ -134,6 +138,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[3.1.5, )"
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[4.7.0, )"
             },
             "System.Data.SqlClient": {
               "target": "Package",

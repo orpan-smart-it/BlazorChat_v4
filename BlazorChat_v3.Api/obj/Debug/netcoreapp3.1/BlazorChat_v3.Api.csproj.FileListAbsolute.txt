@@ -81,8 +81,6 @@ C:\Users\orpan\source\repos\BlazorChat_v4\BlazorChat_v3.Api\obj\Debug\netcoreapp
 C:\Users\orpan\BlazorChat_v4\BlazorChat_v3.Api\obj\Debug\netcoreapp3.1\BlazorChat_v3.Api.csprojAssemblyReference.cache
 C:\Users\orpan\BlazorChat_v4\BlazorChat_v3.Api\obj\Debug\netcoreapp3.1\BlazorChat_v3.Api.AssemblyInfoInputs.cache
 C:\Users\orpan\BlazorChat_v4\BlazorChat_v3.Api\obj\Debug\netcoreapp3.1\BlazorChat_v3.Api.AssemblyInfo.cs
-C:\Users\orpan\BlazorChat_v4\BlazorChat_v3.Api\obj\Debug\netcoreapp3.1\BlazorChat_v3.Api.csproj.CoreCompileInputs.cache
-C:\Users\orpan\BlazorChat_v4\BlazorChat_v3.Api\obj\Debug\netcoreapp3.1\BlazorChat_v3.Api.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\orpan\BlazorChat_v4\BlazorChat_v3.Api\obj\Debug\netcoreapp3.1\BlazorChat_v3.Api.dll
 C:\Users\orpan\BlazorChat_v4\BlazorChat_v3.Api\obj\Debug\netcoreapp3.1\BlazorChat_v3.Api.pdb
 C:\Users\orpan\BlazorChat_v4\BlazorChat_v3.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
@@ -158,3 +156,5 @@ C:\Users\orpan\BlazorChat_v4\BlazorChat_v3.Api\obj\Debug\netcoreapp3.1\BlazorCha
 C:\Users\orpan\BlazorChat_v4\BlazorChat_v3.Api\obj\Debug\netcoreapp3.1\staticwebassets\BlazorChat_v3.Api.StaticWebAssets.Manifest.cache
 C:\Users\orpan\BlazorChat_v4\BlazorChat_v3.Api\obj\Debug\netcoreapp3.1\staticwebassets\BlazorChat_v3.Api.StaticWebAssets.xml
 C:\Users\orpan\BlazorChat_v4\BlazorChat_v3.Api\obj\Debug\netcoreapp3.1\BlazorChat_v3.Api.genruntimeconfig.cache
+C:\Users\orpan\BlazorChat_v4\BlazorChat_v3.Api\obj\Debug\netcoreapp3.1\BlazorChat_v3.Api.csproj.CoreCompileInputs.cache
+C:\Users\orpan\BlazorChat_v4\BlazorChat_v3.Api\obj\Debug\netcoreapp3.1\BlazorChat_v3.Api.MvcApplicationPartsAssemblyInfo.cache

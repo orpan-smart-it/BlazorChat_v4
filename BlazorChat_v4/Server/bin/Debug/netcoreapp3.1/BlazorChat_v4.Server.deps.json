@@ -1477,6 +1477,7 @@
       "BlazorChat_v4.Shared/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore.SqlServer": "3.1.5",
+          "System.ComponentModel.Annotations": "4.7.0",
           "System.Data.SqlClient": "4.8.1"
         },
         "runtime": {

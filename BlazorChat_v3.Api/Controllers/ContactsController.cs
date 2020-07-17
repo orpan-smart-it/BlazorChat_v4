@@ -52,7 +52,7 @@ namespace BlazorChat_v3.Api.Controllers
                 }
             }
         [HttpPost]
-        public async Task<ActionResult> AddContact(Contact contact)
+        public async Task<ActionResult> AddContact([FromBody]Contact contact)
         {
             try
             {

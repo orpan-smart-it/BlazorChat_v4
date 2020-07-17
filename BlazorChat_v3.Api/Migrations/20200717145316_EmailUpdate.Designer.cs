@@ -3,14 +3,16 @@ using BlazorChat.Api.Models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace BlazorChat_v3.Api.Migrations
 {
     [DbContext(typeof(AppDbContextClass))]
-    partial class AppDbContextClassModelSnapshot : ModelSnapshot
+    [Migration("20200717145316_EmailUpdate")]
+    partial class EmailUpdate
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
