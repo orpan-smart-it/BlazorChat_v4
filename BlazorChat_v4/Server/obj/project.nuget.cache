@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "V5hAcuOOM3G7InsgpZIKtsYicmy6NaVMpFYkY1tVzkiflOFaLmsdxqWu4t9+re6XBzgErwP262YlQ/Mh9HoIZg==",
+  "dgSpecHash": "itNfcuj2LIgk1kCi2KQv9rjSLQaIH2DKsxXXCJzwGakbAB2EWPwB9eXzTViJyzC3RthxZH0MM5Q3mro738Aj9g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\orpan\\source\\repos\\BlazorChat_v4\\BlazorChat_v4\\Server\\BlazorChat_v4.Server.csproj",
+  "projectFilePath": "C:\\Users\\orpan\\BlazorChat_v4\\BlazorChat_v4\\Server\\BlazorChat_v4.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\orpan\\.nuget\\packages\\microsoft.aspnetcore.authorization\\3.1.3\\microsoft.aspnetcore.authorization.3.1.3.nupkg.sha512",
     "C:\\Users\\orpan\\.nuget\\packages\\microsoft.aspnetcore.components\\3.1.3\\microsoft.aspnetcore.components.3.1.3.nupkg.sha512",

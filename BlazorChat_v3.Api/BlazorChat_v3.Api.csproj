@@ -2,6 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Nullable>disable</Nullable>
+    <StartupObject>BlazorChat_v3.Api.Program</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>

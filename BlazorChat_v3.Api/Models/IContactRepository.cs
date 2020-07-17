@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BlazorChat_v3.Api.Models
 {
-    interface IContactRepository
+   public interface IContactRepository
     {
         Task<IEnumerable<Contact>> GetContacts();
         Task<Contact> GetContact(int contactId);

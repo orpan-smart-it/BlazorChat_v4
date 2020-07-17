@@ -7064,11 +7064,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\orpan\\source\\repos\\BlazorChat_v4\\BlazorChat_v4\\Shared\\BlazorChat_v4.Shared.csproj",
+      "projectUniqueName": "C:\\Users\\orpan\\BlazorChat_v4\\BlazorChat_v4\\Shared\\BlazorChat_v4.Shared.csproj",
       "projectName": "BlazorChat_v4.Shared",
-      "projectPath": "C:\\Users\\orpan\\source\\repos\\BlazorChat_v4\\BlazorChat_v4\\Shared\\BlazorChat_v4.Shared.csproj",
+      "projectPath": "C:\\Users\\orpan\\BlazorChat_v4\\BlazorChat_v4\\Shared\\BlazorChat_v4.Shared.csproj",
       "packagesPath": "C:\\Users\\orpan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\orpan\\source\\repos\\BlazorChat_v4\\BlazorChat_v4\\Shared\\obj\\",
+      "outputPath": "C:\\Users\\orpan\\BlazorChat_v4\\BlazorChat_v4\\Shared\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\orpan\\AppData\\Roaming\\NuGet\\NuGet.Config",

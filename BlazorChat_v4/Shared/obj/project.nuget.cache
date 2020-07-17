@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AKQw/iktJfolNJpU+MN4JdNuD7mNZ7kYzaMnA0JarlGG8UOr4iUUSoU+hoXBNpsCQZ/I07fOkjDZGTIQh4vMYw==",
+  "dgSpecHash": "UziR9BTYLvaugbTCgdQ2T50mKb3sJWhRrfZ5Ekk/YvpD5ig6F3YpWhSTNhKcSC0viLsnfaliMwPpA2wTLVjjZg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\orpan\\source\\repos\\BlazorChat_v4\\BlazorChat_v4\\Shared\\BlazorChat_v4.Shared.csproj",
+  "projectFilePath": "C:\\Users\\orpan\\BlazorChat_v4\\BlazorChat_v4\\Shared\\BlazorChat_v4.Shared.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\orpan\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\orpan\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

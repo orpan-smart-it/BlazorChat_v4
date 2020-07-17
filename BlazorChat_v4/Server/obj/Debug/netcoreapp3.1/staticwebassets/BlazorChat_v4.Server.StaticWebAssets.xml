@@ -1,4 +1,4 @@
 ﻿<StaticWebAssets Version="1.0">
-  <ContentRoot BasePath="/" Path="C:\Users\orpan\source\repos\BlazorChat_v4\BlazorChat_v4\Client\wwwroot\" />
-  <ContentRoot BasePath="/" Path="C:\Users\orpan\source\repos\BlazorChat_v4\BlazorChat_v4\Client\bin\Debug\netstandard2.1\wwwroot\" />
+  <ContentRoot BasePath="/" Path="C:\Users\orpan\BlazorChat_v4\BlazorChat_v4\Client\wwwroot\" />
+  <ContentRoot BasePath="/" Path="C:\Users\orpan\BlazorChat_v4\BlazorChat_v4\Client\bin\Debug\netstandard2.1\wwwroot\" />
 </StaticWebAssets>

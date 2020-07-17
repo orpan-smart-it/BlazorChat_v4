@@ -1,29 +1,3 @@
 ﻿@using BlazorChat_v4.Shared
 @page "/contacts"
-@inject HttpClient Http
-@inject ContactListBase ContactListBase
 <h1>Contacts</h1>
-
-
-<div class="col-12">
-    @foreach (Contact contact in ContactListBase.ContactList)
-    {
-        <a href="/chat/@contact.ContactId" class="list-group-item list-group-item-action flex-column align-items-start"> @contact.FirstName<span> </span> @contact.LastName </a>
-      }
-</div>
-
-
-@code {
-/*    private List<Contact> ContactList { get; set; } = new List<Contact>();
-
-    protected override async Task OnInitializedAsync()
-    {
-     
-       ContactList.Add(new Contact(0, "Nick", "Bondarev"));
-        ContactList.Add(new Contact(1, "Michele", "Sergeeva"));
-        ContactList.Add(new Contact(2, "Denis", "Semenets"));
-
-    }
-
-*/
-}

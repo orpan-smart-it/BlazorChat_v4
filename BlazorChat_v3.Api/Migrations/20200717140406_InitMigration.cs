@@ -2,7 +2,7 @@
 
 namespace BlazorChat_v3.Api.Migrations
 {
-    public partial class InitialCreate : Migration
+    public partial class InitMigration : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
@@ -11,7 +11,7 @@ namespace BlazorChat_v3.Api.Migrations
                 columns: table => new
                 {
                     ContactId = table.Column<int>(nullable: false)
-                        .Annotation("Sqlite:Autoincrement", true),
+                        .Annotation("SqlServer:Identity", "1, 1"),
                     FirstName = table.Column<string>(nullable: true),
                     LastName = table.Column<string>(nullable: true)
                 },
