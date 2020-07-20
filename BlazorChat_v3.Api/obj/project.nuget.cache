@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "NQ7b7UujWIVDx4UGhwuJ8jELZrdaVZcWg9FviZnAzDJxr+I5/jF4u7EMDzMVo+bzW+YqSAhspUfQZtZsJyR+Qg==",
+  "dgSpecHash": "1MJlAMuL+MS5c+6prJtQ7dsjweVp4DoxIfb2zse7QtNgbmkCrWfuPLaA1ic5E9wSfy82yXp9S2899taUmMWxpA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\orpan\\BlazorChat_v4\\BlazorChat_v3.Api\\BlazorChat_v3.Api.csproj",
+  "projectFilePath": "C:\\Users\\orpan\\Source\\Repos\\BlazorChat_v5\\BlazorChat_v3.Api\\BlazorChat_v3.Api.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\orpan\\.nuget\\packages\\microsoft.aspnetcore.blazor.httpclient\\3.2.0-preview3.20168.3\\microsoft.aspnetcore.blazor.httpclient.3.2.0-preview3.20168.3.nupkg.sha512",
     "C:\\Users\\orpan\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\orpan\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "C:\\Users\\orpan\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

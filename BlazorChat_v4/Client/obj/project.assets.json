@@ -7928,11 +7928,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\orpan\\BlazorChat_v4\\BlazorChat_v4\\Client\\BlazorChat_v4.Client.csproj",
+      "projectUniqueName": "C:\\Users\\orpan\\Source\\Repos\\BlazorChat_v5\\BlazorChat_v4\\Client\\BlazorChat_v4.Client.csproj",
       "projectName": "BlazorChat_v4.Client",
-      "projectPath": "C:\\Users\\orpan\\BlazorChat_v4\\BlazorChat_v4\\Client\\BlazorChat_v4.Client.csproj",
+      "projectPath": "C:\\Users\\orpan\\Source\\Repos\\BlazorChat_v5\\BlazorChat_v4\\Client\\BlazorChat_v4.Client.csproj",
       "packagesPath": "C:\\Users\\orpan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\orpan\\BlazorChat_v4\\BlazorChat_v4\\Client\\obj\\",
+      "outputPath": "C:\\Users\\orpan\\Source\\Repos\\BlazorChat_v5\\BlazorChat_v4\\Client\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\orpan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7948,8 +7948,8 @@
       "frameworks": {
         "netstandard2.1": {
           "projectReferences": {
-            "C:\\Users\\orpan\\BlazorChat_v4\\BlazorChat_v4\\Shared\\BlazorChat_v4.Shared.csproj": {
-              "projectPath": "C:\\Users\\orpan\\BlazorChat_v4\\BlazorChat_v4\\Shared\\BlazorChat_v4.Shared.csproj"
+            "C:\\Users\\orpan\\Source\\Repos\\BlazorChat_v5\\BlazorChat_v4\\Shared\\BlazorChat_v4.Shared.csproj": {
+              "projectPath": "C:\\Users\\orpan\\Source\\Repos\\BlazorChat_v5\\BlazorChat_v4\\Shared\\BlazorChat_v4.Shared.csproj"
             }
           }
         }
