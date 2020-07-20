@@ -6,6 +6,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using BlazorChat_v4.Shared;
+using System.Diagnostics.CodeAnalysis;
 
 namespace BlazorChat_v3.Api.Controllers
 {
@@ -83,6 +84,26 @@ namespace BlazorChat_v3.Api.Controllers
                     "Error adding a new contact.");
             }
         }
+        [HttpGet("{search}/{name}/{email}")]
+        #nullable enable
+        public async Task<ActionResult<Contact>> SearchContact(string name, string? email)
+        {
+            try
+            {
+                var result = contactRepository.SearchContact(name,email);
+                if (result != null)
+                {
+                    return Ok(result);
+                }
+                else
+                    return NotFound();
+            }
+            catch (Exception)
+            {
+                return StatusCode(StatusCodes.Status500InternalServerError, "Error retrieving data from the server");
+            }
+        }
+
         }
     
     }
