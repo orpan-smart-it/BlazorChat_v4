@@ -84,7 +84,7 @@ namespace BlazorChat_v3.Api.Controllers
                     "Error adding a new contact.");
             }
         }
-        [HttpGet("{search}")]
+        [HttpGet("{search}/{name}/{email}")]
         #nullable enable
         public async Task<ActionResult<Contact>> SearchContact(string name, string? email)
         {
