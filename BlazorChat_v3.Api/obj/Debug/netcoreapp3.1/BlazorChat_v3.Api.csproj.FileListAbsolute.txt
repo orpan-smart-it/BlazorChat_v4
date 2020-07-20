@@ -239,3 +239,7 @@ C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v3.Api\obj\Debug\netcoreapp
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v3.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Blazor.HttpClient.dll
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v3.Api\obj\Debug\netcoreapp3.1\BlazorChat_v3.Api.csproj.CoreCompileInputs.cache
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v3.Api\obj\Debug\netcoreapp3.1\BlazorChat_v3.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v3.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v3.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v3.Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v3.Api\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.dll

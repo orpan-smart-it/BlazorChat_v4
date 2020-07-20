@@ -34,6 +34,9 @@ namespace BlazorChat_v3.Api
                  options.UseSqlServer(Configuration.GetConnectionString("DbConnection")));
             services.AddControllers();
             services.AddScoped<IContactRepository, ContactRepository>();
+
+
+
            
         }
 
@@ -55,6 +58,8 @@ namespace BlazorChat_v3.Api
             {
                 endpoints.MapControllers();
             });
+
+
         }
     }
 }

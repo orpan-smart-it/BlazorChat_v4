@@ -1,12 +1,12 @@
 {
   "FilesToCompress": [
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\qe8FOkhHjGShz_mAvzl2UBQdTnAR4afE8Uyyi0STGRs=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\g-9Wi5aBclTBR-YqBlfSks5RRBA5HBJsQkU7tMUmBFM=.hash",
       "Source": "C:\\Users\\orpan\\Source\\Repos\\BlazorChat_v5\\BlazorChat_v4\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorChat_v4.Client.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/BlazorChat_v4.Client.dll.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\SIrX0gUuSJrdu4bz6saALUpif6BJVYDRtD6LeGyJxGY=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\Bs1Wrmh4ex9dTEIT0yCRF52N-wOmsBDt457BHr0-ssM=.hash",
       "Source": "C:\\Users\\orpan\\Source\\Repos\\BlazorChat_v5\\BlazorChat_v4\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.DependencyInjection.Abstractions.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz"
     },
@@ -141,7 +141,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.ComponentModel.DataAnnotations.dll.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\jqp6xS5jDFDsISGorhiYZQ2if3hAiols6d4C5BNnMQ4=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\PEg9ghiKSWBTX0jq8pFDvv2Yvw92Y8W0ELtWrSE4fhA=.hash",
       "Source": "C:\\Users\\orpan\\Source\\Repos\\BlazorChat_v5\\BlazorChat_v4\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.AspNetCore.Components.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.AspNetCore.Components.dll.gz"
     },
@@ -151,14 +151,9 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Buffers.dll.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\ZFZ7sEO9dexBkfP7iX8zEyLRXGADfimwwKXVNXak0NI=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\6gJMwefpsWLHWsEipZp143xn8k2Ea27upnXqjUT6iNI=.hash",
       "Source": "C:\\Users\\orpan\\Source\\Repos\\BlazorChat_v5\\BlazorChat_v4\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.Logging.Abstractions.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Logging.Abstractions.dll.gz"
-    },
-    {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\62puM5EM2mlplKqikGKHxElRI-2Gn5BrfyzkmnBPkwQ=.hash",
-      "Source": "C:\\Users\\orpan\\Source\\Repos\\BlazorChat_v5\\BlazorChat_v4\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorChat_v4.Shared.dll",
-      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/BlazorChat_v4.Shared.dll.gz"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\sifIvl02zqfSiv67ZRAsSa_NCvhMgTGrIUNuK8LmCNM=.hash",
@@ -171,12 +166,12 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.DependencyInjection.dll.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\hbEA2pdvgll2bWeJXCtehEV3kl3WFnBgQj6ttcesEA4=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\Tqh1Da_iTRQJEZUGAsMNFuZ4hf1PMf13WApRZod_uw4=.hash",
       "Source": "C:\\Users\\orpan\\Source\\Repos\\BlazorChat_v5\\BlazorChat_v4\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Text.Encodings.Web.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Text.Encodings.Web.dll.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\HuN39zo_3JuK3P3Tk9nhsrp8nYpA0ceUkUl_0AJBMWg=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\y-FyJQOcW2TOcTp7Iuv8brGBzL5ZP0oJdG7ysK_gtKc=.hash",
       "Source": "C:\\Users\\orpan\\Source\\Repos\\BlazorChat_v5\\BlazorChat_v4\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.Primitives.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Primitives.dll.gz"
     },
@@ -221,7 +216,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.FileProviders.Abstractions.dll.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\pzCorxTCjbUODF5JuRgcHc8gVYEdSaKD9NWA6wZhTPE=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\HQeN_ZfHAERO_uW0fP0J9J3WV1hQ3vUIOWbqGSYBPp8=.hash",
       "Source": "C:\\Users\\orpan\\Source\\Repos\\BlazorChat_v5\\BlazorChat_v4\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\System.Text.Json.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/System.Text.Json.dll.gz"
     },
@@ -246,12 +241,12 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Logging.dll.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\Z_NeMeePelfkeb7RMqMLU8KIFQrmV0168zqwpLqbQcc=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\rvTW0d54uLW0iDMAX30lpmr9f8uHoS3YYkEU5zNGhyc=.hash",
       "Source": "C:\\Users\\orpan\\Source\\Repos\\BlazorChat_v5\\BlazorChat_v4\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.Extensions.Options.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.Extensions.Options.dll.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\K3dpli228kQQ75WVqoiIdmn8u8q8gZHixcWDdCHCRgU=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\LqwA2Rpm96Ualk0IhLZar87kfRCyKHzHTeTt2jYhm7M=.hash",
       "Source": "C:\\Users\\orpan\\Source\\Repos\\BlazorChat_v5\\BlazorChat_v4\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\Microsoft.JSInterop.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.dll.gz"
     },
@@ -261,14 +256,9 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\KzBix4a1vQOP_jAwbmdw1Z9fgKNruwbZfszJWWZ5Yr4=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\sSlG6MOpGVeK9PrU-hAjHGHXPTmYP6hUu-t8FWBosa0=.hash",
       "Source": "C:\\Users\\orpan\\Source\\Repos\\BlazorChat_v5\\BlazorChat_v4\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorChat_v4.Client.pdb",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/BlazorChat_v4.Client.pdb.gz"
-    },
-    {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\GIc3yp2TGi-UU3G1WqjkUbH1e8FCxFNQdugpqeQ5Dgg=.hash",
-      "Source": "C:\\Users\\orpan\\Source\\Repos\\BlazorChat_v5\\BlazorChat_v4\\Client\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\BlazorChat_v4.Shared.pdb",
-      "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/BlazorChat_v4.Shared.pdb.gz"
     },
     {
       "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash",
@@ -291,7 +281,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.webassembly.js.gz"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\nT9p8vxBP45hLto_XuzAFxENXA2snbZj3mYWua8v35w=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\pcVmH5l62wuZacIP2uN9VSvcNjCSrXHeTrG_-K7J8SQ=.hash",
       "Source": "C:\\Users\\orpan\\Source\\Repos\\BlazorChat_v5\\BlazorChat_v4\\Client\\obj\\Debug\\netstandard2.1\\blazor\\blazor.boot.json",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.boot.json.gz"
     }

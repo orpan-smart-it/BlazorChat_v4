@@ -873,7 +873,6 @@ C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\bin\Debug\netstan
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.dll
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Buffers.dll
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\BlazorChat_v4.Shared.dll
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.WebAssembly.dll
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Text.Encodings.Web.dll
@@ -895,7 +894,6 @@ C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\bin\Debug\netstan
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.JSInterop.dll
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.JSInterop.WebAssembly.dll
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\BlazorChat_v4.Client.pdb
-C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\BlazorChat_v4.Shared.pdb
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.3.2.0.js
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.timezones.dat
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.wasm
@@ -932,7 +930,6 @@ C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\bin\Debug\netstan
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.dll.gz
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Buffers.dll.gz
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll.gz
-C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\BlazorChat_v4.Shared.dll.gz
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll.gz
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Text.Encodings.Web.dll.gz
@@ -954,7 +951,6 @@ C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\bin\Debug\netstan
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.JSInterop.dll.gz
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.JSInterop.WebAssembly.dll.gz
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\BlazorChat_v4.Client.pdb.gz
-C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\BlazorChat_v4.Shared.pdb.gz
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.3.2.0.js.gz
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.timezones.dat.gz
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.wasm.gz
@@ -1052,7 +1048,6 @@ C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstan
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\BlazorChat_v4.Client.csproj.CoreCompileInputs.cache
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\BlazorChat_v4.Client.RazorComponent.input.cache
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\RazorDeclaration\App.razor.g.cs
-C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Chat.razor.g.cs
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Contacts.razor.g.cs
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Profile.razor.g.cs
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Settings.razor.g.cs
@@ -1065,7 +1060,6 @@ C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstan
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\BlazorChat_v4.Client.TagHelpers.output.cache
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\BlazorChat_v4.Client.RazorCoreGenerate.cache
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\Razor\App.razor.g.cs
-C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\Razor\Pages\Chat.razor.g.cs
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\Razor\Pages\Contacts.razor.g.cs
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\Razor\Pages\Profile.razor.g.cs
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\Razor\Pages\Settings.razor.g.cs
@@ -1076,8 +1070,6 @@ C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstan
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\BlazorChat_v4.Client.RazorTargetAssemblyInfo.cache
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\BlazorChat_v4.Client.csproj.CopyComplete
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\blazor\unlinked.output
-C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\integrity\qe8FOkhHjGShz_mAvzl2UBQdTnAR4afE8Uyyi0STGRs=.hash
-C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\integrity\SIrX0gUuSJrdu4bz6saALUpif6BJVYDRtD6LeGyJxGY=.hash
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\integrity\-zcPVM75OAY_joGVM8yIC1gO1SFYWP1CFERgQ8PJkfA=.hash
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\integrity\IPbQMdJxZXdk8HTlaPyXdQ6Zb82iZLphnM74yO4EURQ=.hash
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\integrity\Zw2-5aDWjgMedporhjigwhi-UCLcfl0tfa0LXUyD9HE=.hash
@@ -1104,14 +1096,9 @@ C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstan
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\integrity\e0FY4g2Vt8TsXfafkXU2XnUgcYzjzPiFqb3KCylDb74=.hash
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\integrity\tmnkCmP9OzLUkpQ3LP7PRosi7gt5pyfEZCM6aqAokFI=.hash
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\integrity\LIfCYwg_PHltTK4z3EnbSkA7m2cn8JS4jHVthdKrDF8=.hash
-C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\integrity\jqp6xS5jDFDsISGorhiYZQ2if3hAiols6d4C5BNnMQ4=.hash
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\integrity\ZxXy75PYbzJxNfAc-SAP1nUYm4gt1jSaOpFnBb9m85M=.hash
-C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\integrity\ZFZ7sEO9dexBkfP7iX8zEyLRXGADfimwwKXVNXak0NI=.hash
-C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\integrity\62puM5EM2mlplKqikGKHxElRI-2Gn5BrfyzkmnBPkwQ=.hash
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\integrity\sifIvl02zqfSiv67ZRAsSa_NCvhMgTGrIUNuK8LmCNM=.hash
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\integrity\B8lmXQIZesz3VNf2EhEYPXwBkBHHyyGOEcvU25U-ie4=.hash
-C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\integrity\hbEA2pdvgll2bWeJXCtehEV3kl3WFnBgQj6ttcesEA4=.hash
-C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\integrity\HuN39zo_3JuK3P3Tk9nhsrp8nYpA0ceUkUl_0AJBMWg=.hash
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\integrity\kL-omZDwqByAi_lPdMeDmr3XjHcn4RVb_LmZ4mut1Yc=.hash
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\integrity\jpSRfsr97m71a5QnEO1fl_9W77vUeIRmfbXCSJLLg-8=.hash
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\integrity\HR6KlO-LBLOOHVTHhgZoGSrhXlm2OrF3i2SmRz5khsM=.hash
@@ -1120,22 +1107,16 @@ C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstan
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\integrity\ROy00p56saSEbyOGgwnu8op__-jeRfR6GYOOLp_fVw4=.hash
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\integrity\K3YFmrW2bw2nAvgBqWJvZD2KN9q1vRVzOyp6AOSojMo=.hash
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\integrity\X3n9B0GKwWD1R7H_6ydrvoazqRQrQRjS_NH5VG6VJNY=.hash
-C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\integrity\pzCorxTCjbUODF5JuRgcHc8gVYEdSaKD9NWA6wZhTPE=.hash
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\integrity\EcDo-GQZkQrOT1Xd0jMPE3NwT5lsMq5DNsPxHVidLDQ=.hash
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\integrity\TkH6yxFQlTfY8NfznePrCdYJiEVpM9Dqy4Uu4H9qk10=.hash
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\integrity\qAKfFnquY_7UC-MzLi04rjqEhLzTryCoLg-S6MxI19I=.hash
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\integrity\piyTL6bW9vcvIWAkeTPE6lu-1A11BCtZrRJTKTa1sZM=.hash
-C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\integrity\Z_NeMeePelfkeb7RMqMLU8KIFQrmV0168zqwpLqbQcc=.hash
-C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\integrity\K3dpli228kQQ75WVqoiIdmn8u8q8gZHixcWDdCHCRgU=.hash
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\integrity\dwm_rKImjhxtOmHHVpSxOgl2oh2R26xOWihLaZSv7Vs=.hash
-C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\integrity\KzBix4a1vQOP_jAwbmdw1Z9fgKNruwbZfszJWWZ5Yr4=.hash
-C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\integrity\GIc3yp2TGi-UU3G1WqjkUbH1e8FCxFNQdugpqeQ5Dgg=.hash
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\integrity\mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\integrity\3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\integrity\UC-3Rm1NkdNdlIrzYARo_dO-HDlS5mhPxo0IQv7kma8=.hash
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\integrity\oU0moF6IIkna1pMoSD6Ze63s6aHfjCtUflz7xDmENPg=.hash
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\blazor\blazor.boot.json
-C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\integrity\nT9p8vxBP45hLto_XuzAFxENXA2snbZj3mYWua8v35w=.hash
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\BlazorChat_v4.Client.dll.gz
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\netstandard.dll.gz
@@ -1167,7 +1148,6 @@ C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstan
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.dll.gz
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Buffers.dll.gz
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll.gz
-C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\BlazorChat_v4.Shared.dll.gz
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll.gz
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Text.Encodings.Web.dll.gz
@@ -1189,7 +1169,6 @@ C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstan
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.JSInterop.dll.gz
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.JSInterop.WebAssembly.dll.gz
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\BlazorChat_v4.Client.pdb.gz
-C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\BlazorChat_v4.Shared.pdb.gz
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.3.2.0.js.gz
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.timezones.dat.gz
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.wasm.gz
@@ -1226,7 +1205,6 @@ C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstan
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.dll.br
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Buffers.dll.br
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll.br
-C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\BlazorChat_v4.Shared.dll.br
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.WebAssembly.dll.br
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll.br
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Text.Encodings.Web.dll.br
@@ -1248,7 +1226,6 @@ C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstan
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.JSInterop.dll.br
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.JSInterop.WebAssembly.dll.br
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\BlazorChat_v4.Client.pdb.br
-C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\BlazorChat_v4.Shared.pdb.br
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.3.2.0.js.br
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.timezones.dat.br
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.wasm.br
@@ -1258,3 +1235,14 @@ C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstan
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\staticwebassets\BlazorChat_v4.Client.StaticWebAssets.xml
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\BlazorChat_v4.Client.dll
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\BlazorChat_v4.Client.pdb
+C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\integrity\Bs1Wrmh4ex9dTEIT0yCRF52N-wOmsBDt457BHr0-ssM=.hash
+C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\integrity\PEg9ghiKSWBTX0jq8pFDvv2Yvw92Y8W0ELtWrSE4fhA=.hash
+C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\integrity\6gJMwefpsWLHWsEipZp143xn8k2Ea27upnXqjUT6iNI=.hash
+C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\integrity\Tqh1Da_iTRQJEZUGAsMNFuZ4hf1PMf13WApRZod_uw4=.hash
+C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\integrity\y-FyJQOcW2TOcTp7Iuv8brGBzL5ZP0oJdG7ysK_gtKc=.hash
+C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\integrity\HQeN_ZfHAERO_uW0fP0J9J3WV1hQ3vUIOWbqGSYBPp8=.hash
+C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\integrity\rvTW0d54uLW0iDMAX30lpmr9f8uHoS3YYkEU5zNGhyc=.hash
+C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\integrity\LqwA2Rpm96Ualk0IhLZar87kfRCyKHzHTeTt2jYhm7M=.hash
+C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\integrity\g-9Wi5aBclTBR-YqBlfSks5RRBA5HBJsQkU7tMUmBFM=.hash
+C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\integrity\sSlG6MOpGVeK9PrU-hAjHGHXPTmYP6hUu-t8FWBosa0=.hash
+C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Client\obj\Debug\netstandard2.1\integrity\pcVmH5l62wuZacIP2uN9VSvcNjCSrXHeTrG_-K7J8SQ=.hash

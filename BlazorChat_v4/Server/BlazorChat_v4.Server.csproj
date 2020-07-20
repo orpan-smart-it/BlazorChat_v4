@@ -2,9 +2,11 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>49c167a0-66ff-4a80-95d9-f64ab519092a</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Blazor.HttpClient" Version="3.2.0-preview3.20168.3" />
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.Server" Version="3.2.0" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.5" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.5">
@@ -15,6 +17,8 @@
   </ItemGroup>
 
   <ItemGroup>
+   
+    <ProjectReference Include="..\..\BlazorChat_v3.Api\BlazorChat_v3.Api.csproj" />
    
     <ProjectReference Include="..\Client\BlazorChat_v4.Client.csproj" />
     <ProjectReference Include="..\Shared\BlazorChat_v4.Shared.csproj" />

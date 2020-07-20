@@ -22,6 +22,6 @@ C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Shared\bin\Debug\netstan
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Shared\obj\Debug\netstandard2.1\BlazorChat_v4.Shared.csprojAssemblyReference.cache
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Shared\obj\Debug\netstandard2.1\BlazorChat_v4.Shared.AssemblyInfoInputs.cache
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Shared\obj\Debug\netstandard2.1\BlazorChat_v4.Shared.AssemblyInfo.cs
-C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Shared\obj\Debug\netstandard2.1\BlazorChat_v4.Shared.csproj.CoreCompileInputs.cache
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Shared\obj\Debug\netstandard2.1\BlazorChat_v4.Shared.dll
 C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Shared\obj\Debug\netstandard2.1\BlazorChat_v4.Shared.pdb
+C:\Users\orpan\Source\Repos\BlazorChat_v5\BlazorChat_v4\Shared\obj\Debug\netstandard2.1\BlazorChat_v4.Shared.csproj.CoreCompileInputs.cache
