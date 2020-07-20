@@ -1,17 +1,112 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\orpan\\BlazorChat_v4\\BlazorChat_v4\\Server\\BlazorChat_v4.Server.csproj": {}
+    "C:\\Users\\orpan\\Source\\Repos\\BlazorChat_v5\\BlazorChat_v4\\Server\\BlazorChat_v4.Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\orpan\\BlazorChat_v4\\BlazorChat_v4\\Client\\BlazorChat_v4.Client.csproj": {
+    "C:\\Users\\orpan\\Source\\Repos\\BlazorChat_v5\\BlazorChat_v3.Api\\BlazorChat_v3.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\orpan\\BlazorChat_v4\\BlazorChat_v4\\Client\\BlazorChat_v4.Client.csproj",
-        "projectName": "BlazorChat_v4.Client",
-        "projectPath": "C:\\Users\\orpan\\BlazorChat_v4\\BlazorChat_v4\\Client\\BlazorChat_v4.Client.csproj",
+        "projectUniqueName": "C:\\Users\\orpan\\Source\\Repos\\BlazorChat_v5\\BlazorChat_v3.Api\\BlazorChat_v3.Api.csproj",
+        "projectName": "BlazorChat_v3.Api",
+        "projectPath": "C:\\Users\\orpan\\Source\\Repos\\BlazorChat_v5\\BlazorChat_v3.Api\\BlazorChat_v3.Api.csproj",
         "packagesPath": "C:\\Users\\orpan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\orpan\\BlazorChat_v4\\BlazorChat_v4\\Client\\obj\\",
+        "outputPath": "C:\\Users\\orpan\\Source\\Repos\\BlazorChat_v5\\BlazorChat_v3.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\orpan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\orpan\\Source\\Repos\\BlazorChat_v5\\BlazorChat_v4\\Shared\\BlazorChat_v4.Shared.csproj": {
+                "projectPath": "C:\\Users\\orpan\\Source\\Repos\\BlazorChat_v5\\BlazorChat_v4\\Shared\\BlazorChat_v4.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Blazor.HttpClient": {
+              "target": "Package",
+              "version": "[3.2.0-preview3.20168.3, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "System.Data.Common": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\orpan\\Source\\Repos\\BlazorChat_v5\\BlazorChat_v4\\Client\\BlazorChat_v4.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\orpan\\Source\\Repos\\BlazorChat_v5\\BlazorChat_v4\\Client\\BlazorChat_v4.Client.csproj",
+        "projectName": "BlazorChat_v4.Client",
+        "projectPath": "C:\\Users\\orpan\\Source\\Repos\\BlazorChat_v5\\BlazorChat_v4\\Client\\BlazorChat_v4.Client.csproj",
+        "packagesPath": "C:\\Users\\orpan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\orpan\\Source\\Repos\\BlazorChat_v5\\BlazorChat_v4\\Client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\orpan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,8 +122,8 @@
         "frameworks": {
           "netstandard2.1": {
             "projectReferences": {
-              "C:\\Users\\orpan\\BlazorChat_v4\\BlazorChat_v4\\Shared\\BlazorChat_v4.Shared.csproj": {
-                "projectPath": "C:\\Users\\orpan\\BlazorChat_v4\\BlazorChat_v4\\Shared\\BlazorChat_v4.Shared.csproj"
+              "C:\\Users\\orpan\\Source\\Repos\\BlazorChat_v5\\BlazorChat_v4\\Shared\\BlazorChat_v4.Shared.csproj": {
+                "projectPath": "C:\\Users\\orpan\\Source\\Repos\\BlazorChat_v5\\BlazorChat_v4\\Shared\\BlazorChat_v4.Shared.csproj"
               }
             }
           }
@@ -94,14 +189,14 @@
         }
       }
     },
-    "C:\\Users\\orpan\\BlazorChat_v4\\BlazorChat_v4\\Server\\BlazorChat_v4.Server.csproj": {
+    "C:\\Users\\orpan\\Source\\Repos\\BlazorChat_v5\\BlazorChat_v4\\Server\\BlazorChat_v4.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\orpan\\BlazorChat_v4\\BlazorChat_v4\\Server\\BlazorChat_v4.Server.csproj",
+        "projectUniqueName": "C:\\Users\\orpan\\Source\\Repos\\BlazorChat_v5\\BlazorChat_v4\\Server\\BlazorChat_v4.Server.csproj",
         "projectName": "BlazorChat_v4.Server",
-        "projectPath": "C:\\Users\\orpan\\BlazorChat_v4\\BlazorChat_v4\\Server\\BlazorChat_v4.Server.csproj",
+        "projectPath": "C:\\Users\\orpan\\Source\\Repos\\BlazorChat_v5\\BlazorChat_v4\\Server\\BlazorChat_v4.Server.csproj",
         "packagesPath": "C:\\Users\\orpan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\orpan\\BlazorChat_v4\\BlazorChat_v4\\Server\\obj\\",
+        "outputPath": "C:\\Users\\orpan\\Source\\Repos\\BlazorChat_v5\\BlazorChat_v4\\Server\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\orpan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -117,11 +212,14 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\orpan\\BlazorChat_v4\\BlazorChat_v4\\Client\\BlazorChat_v4.Client.csproj": {
-                "projectPath": "C:\\Users\\orpan\\BlazorChat_v4\\BlazorChat_v4\\Client\\BlazorChat_v4.Client.csproj"
+              "C:\\Users\\orpan\\Source\\Repos\\BlazorChat_v5\\BlazorChat_v3.Api\\BlazorChat_v3.Api.csproj": {
+                "projectPath": "C:\\Users\\orpan\\Source\\Repos\\BlazorChat_v5\\BlazorChat_v3.Api\\BlazorChat_v3.Api.csproj"
               },
-              "C:\\Users\\orpan\\BlazorChat_v4\\BlazorChat_v4\\Shared\\BlazorChat_v4.Shared.csproj": {
-                "projectPath": "C:\\Users\\orpan\\BlazorChat_v4\\BlazorChat_v4\\Shared\\BlazorChat_v4.Shared.csproj"
+              "C:\\Users\\orpan\\Source\\Repos\\BlazorChat_v5\\BlazorChat_v4\\Client\\BlazorChat_v4.Client.csproj": {
+                "projectPath": "C:\\Users\\orpan\\Source\\Repos\\BlazorChat_v5\\BlazorChat_v4\\Client\\BlazorChat_v4.Client.csproj"
+              },
+              "C:\\Users\\orpan\\Source\\Repos\\BlazorChat_v5\\BlazorChat_v4\\Shared\\BlazorChat_v4.Shared.csproj": {
+                "projectPath": "C:\\Users\\orpan\\Source\\Repos\\BlazorChat_v5\\BlazorChat_v4\\Shared\\BlazorChat_v4.Shared.csproj"
               }
             }
           }
@@ -135,6 +233,10 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "Microsoft.AspNetCore.Blazor.HttpClient": {
+              "target": "Package",
+              "version": "[3.2.0-preview3.20168.3, )"
+            },
             "Microsoft.AspNetCore.Components.WebAssembly.Server": {
               "target": "Package",
               "version": "[3.2.0, )"
@@ -176,14 +278,14 @@
         }
       }
     },
-    "C:\\Users\\orpan\\BlazorChat_v4\\BlazorChat_v4\\Shared\\BlazorChat_v4.Shared.csproj": {
+    "C:\\Users\\orpan\\Source\\Repos\\BlazorChat_v5\\BlazorChat_v4\\Shared\\BlazorChat_v4.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\orpan\\BlazorChat_v4\\BlazorChat_v4\\Shared\\BlazorChat_v4.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\orpan\\Source\\Repos\\BlazorChat_v5\\BlazorChat_v4\\Shared\\BlazorChat_v4.Shared.csproj",
         "projectName": "BlazorChat_v4.Shared",
-        "projectPath": "C:\\Users\\orpan\\BlazorChat_v4\\BlazorChat_v4\\Shared\\BlazorChat_v4.Shared.csproj",
+        "projectPath": "C:\\Users\\orpan\\Source\\Repos\\BlazorChat_v5\\BlazorChat_v4\\Shared\\BlazorChat_v4.Shared.csproj",
         "packagesPath": "C:\\Users\\orpan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\orpan\\BlazorChat_v4\\BlazorChat_v4\\Shared\\obj\\",
+        "outputPath": "C:\\Users\\orpan\\Source\\Repos\\BlazorChat_v5\\BlazorChat_v4\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\orpan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -210,6 +312,10 @@
       "frameworks": {
         "netstandard2.1": {
           "dependencies": {
+            "Microsoft.AspNetCore.Components": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[3.1.5, )"

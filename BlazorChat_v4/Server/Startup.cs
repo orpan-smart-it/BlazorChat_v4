@@ -7,8 +7,10 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using System.Linq;
 using BlazorChat_v4.Client.Pages;
+using BlazorChat_v4.Server.Services;
+using BlazorChat_v4.Server;
 
-namespace BlazorChat_v4.Server
+namespace BlazorChat_v4.Shared
 {
     public class Startup
     {
@@ -27,6 +29,11 @@ namespace BlazorChat_v4.Server
             services.AddControllersWithViews();
             services.AddRazorPages();
             services.AddScoped<ContactListBase>();
+            
+            services.AddHttpClient<IContactService, ContactService>(client =>
+             {
+                 client.BaseAddress = new System.Uri("https://localhost:44330/");
+             });
             
         }
 
