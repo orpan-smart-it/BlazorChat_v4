@@ -2,6 +2,7 @@
 using BlazorChat_v4.Shared;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Logging;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -73,6 +74,24 @@ namespace BlazorChat_v3.Api.Models
             }
             return null; 
                 
+
+        }
+        #nullable enable 
+        public async Task<IQueryable<Contact>> SearchContact(string name, string? email)
+        {
+            IQueryable<Contact> contactsQuery = appDbContext.Contacts;
+             if (!string.IsNullOrEmpty(name))
+
+            {
+                contactsQuery = contactsQuery.Where(e => e.FirstName.Contains(name) || e.LastName.Contains(name));
+            }
+            if (!string.IsNullOrEmpty(email))
+                {
+                    contactsQuery = contactsQuery.Where(e => e.Email.Contains(email));
+                }
+                
+            return contactsQuery;
+           
 
         }
     }
