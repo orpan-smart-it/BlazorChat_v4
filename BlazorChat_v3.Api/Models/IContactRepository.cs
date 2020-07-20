@@ -8,6 +8,7 @@ namespace BlazorChat_v3.Api.Models
 {
    public interface IContactRepository
     {
+        Task<IEnumerable<Contact>> SearchContact(string name, string? email);
         Task<IEnumerable<Contact>> GetContacts();
         Task<Contact> GetContact(int contactId);
         Task<Contact> AddContact(Contact contact);

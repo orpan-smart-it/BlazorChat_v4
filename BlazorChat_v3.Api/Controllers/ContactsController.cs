@@ -51,5 +51,24 @@ namespace BlazorChat_v3.Api.Controllers
                         "Error retrieving data from the database");
                 }
             }
+        
+    [HttpGet("{searchcontact}")]
+    public async Task<ActionResult<Contact>> SearchContact(string name, string? email)
+    {
+            try
+            {
+                var result = contactRepository.SearchContact(name, email);
+                if (result != null) 
+                    return Ok(result);
+
+                else
+                    return NotFound();
+        }
+        catch (Exception)
+        {
+            return StatusCode(StatusCodes.Status500InternalServerError,
+                      "Error retrieving data from the database");
         }
     }
+    }
+    

@@ -42,14 +42,31 @@ namespace BlazorChat_v3.Api.Models
         {
             return await appDbContext.Contacts
                 .FirstOrDefaultAsync(e => e.ContactId == contactId);
-        
-        }
 
-        public async Task<IEnumerable<Contact>> GetContacts()
+        }
+        public async Task<IEnumerable<Contact>> SearchContact(string name, string? email)
         {
-            return await appDbContext.Contacts.ToListAsync();
+            IQueryable<Contact> _query = AppDbContextClass.Contacts;
+            if (!string.IsNullOrEmpty(name))
+            {
+                _query = _query.Where(e=>e.FirstName.Contains(name)
+                    || e.LastName.Contains(name));
+            }
+            if (!string.IsNullOrEmpty(email))
+            {
+                _query = _query.Where(e => e.Email.Contains(email));
+            }
+            return await _query; 
+
+        }
+ 
+
+        public Task<IEnumerable<Contact>> GetContacts()
+        {
+            throw new NotImplementedException();
         }
 
+  
         public async Task<Contact> UpdateContact(Contact contact)
         {
             var result = await appDbContext.Contacts
@@ -59,6 +76,7 @@ namespace BlazorChat_v3.Api.Models
             {
                 result.FirstName = contact.FirstName;
                 result.LastName = contact.LastName;
+                resutl.Email = contact.Email;
 
                 await appDbContext.SaveChangesAsync();
                 return result;
