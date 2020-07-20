@@ -45,6 +45,12 @@ namespace BlazorChat_v3.Api.Models
         
         }
 
+        public async Task<Contact> GetEmail(string email)
+        {
+            return await appDbContext.Contacts
+                .FirstOrDefaultAsync(e => e.Email == email);
+        }
+
         public async Task<IEnumerable<Contact>> GetContacts()
         {
             return await appDbContext.Contacts.ToListAsync();
