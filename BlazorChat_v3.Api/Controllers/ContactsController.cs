@@ -53,6 +53,7 @@ namespace BlazorChat_v3.Api.Controllers
             }
         [HttpPost]
         public async Task<ActionResult> AddContact([FromBody]Contact contact)
+        
         {
             try
             {
@@ -60,12 +61,21 @@ namespace BlazorChat_v3.Api.Controllers
                 {
                     return BadRequest();
                 }
-                var createdContact = await contactRepository.AddContact(contact);
-                return CreatedAtAction(nameof(GetContact), new
+                else
                 {
-                    id = createdContact.
-                    ContactId
-                }, createdContact);
+                    if (contactRepository.GetEmail(contact.Email)!=null)
+                    {
+                        var createdContact = await contactRepository.AddContact(contact);
+                        return CreatedAtAction(nameof(GetContact), new{id = createdContact.ContactId}, createdContact);
+
+                    }
+                    else
+                    {
+                        return StatusCode(StatusCodes.Status500InternalServerError, "Such a contact is already exist");
+                    }
+                }
+                
+                
             }
             catch (Exception)
             {
@@ -74,4 +84,5 @@ namespace BlazorChat_v3.Api.Controllers
             }
         }
         }
+    
     }

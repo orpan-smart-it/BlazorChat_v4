@@ -10,6 +10,7 @@ namespace BlazorChat_v3.Api.Models
     {
         Task<IEnumerable<Contact>> GetContacts();
         Task<Contact> GetContact(int contactId);
+        Task<Contact> GetEmail(string email);
         Task<Contact> AddContact(Contact contact);
         Task<Contact> UpdateContact(Contact contact);
         void DeleteContact(int contactId);
